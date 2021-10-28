@@ -1,0 +1,7 @@
+﻿  Sp8.cpp
+C:\Users\thela\OneDrive\Desktop\Sem5_SP-master\Sp8\Sp8\Sp8.cpp(176,13): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\Sem5_SP-master\Sp8\Sp8\Sp8.cpp(222,16): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\Sem5_SP-master\Sp8\Sp8\Sp8.cpp(250,15): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  stdafx.cpp
+  Создание кода...
+  Sp8.vcxproj -> C:\Users\thela\OneDrive\Desktop\Sem5_SP-master\Sp8\x64\Debug\Sp8.exe
