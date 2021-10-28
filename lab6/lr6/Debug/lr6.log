@@ -1,0 +1,8 @@
+﻿  lr6.cpp
+C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\lr6\lr6.cpp(216,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\lr6\lr6.cpp(217,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\lr6\lr6.cpp(221,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\lr6\lr6.cpp(222,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\lr6\lr6.cpp(226,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\lr6\lr6.cpp(227,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lr6.vcxproj -> C:\Users\thela\OneDrive\Desktop\sp_4sem-master\lr6\Debug\lr6.exe
